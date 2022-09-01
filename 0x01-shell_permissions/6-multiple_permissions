@@ -1,2 +1,2 @@
-#!/bin/hash
+#!/bin/bash
 chmod 554 hello
